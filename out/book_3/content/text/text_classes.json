@@ -1,0 +1,78 @@
+{
+  "class_f1": {
+    "font": "Sentinel-Book",
+    "size": 25.0
+  },
+  "class_f2": {
+    "font": "Sentinel-Book",
+    "size": 8.0
+  },
+  "class_f3": {
+    "font": "Sentinel-Book",
+    "size": 14.0
+  },
+  "class_f4": {
+    "font": "TimesNewRomanPSMT",
+    "size": 16.0
+  },
+  "class_f5": {
+    "font": "TimesNewRomanPSMT",
+    "size": 13.0
+  },
+  "class_f6": {
+    "font": "TimesNewRomanPSMT",
+    "size": 14.0
+  },
+  "class_f7": {
+    "font": "TimesNewRomanPSMT",
+    "size": 10.0
+  },
+  "class_f8": {
+    "font": "TimesNewRomanPS-ItalicMT",
+    "size": 10.0
+  },
+  "class_f9": {
+    "font": "TimesNewRoman",
+    "size": 16.0
+  },
+  "class_f10": {
+    "font": "TimesNewRoman",
+    "size": 13.0
+  },
+  "class_f11": {
+    "font": "TimesNewRoman",
+    "size": 10.0
+  },
+  "class_f12": {
+    "font": "TimesNewRoman",
+    "size": 6.4
+  },
+  "class_f13": {
+    "font": "TimesNewRoman",
+    "size": 6.0
+  },
+  "class_f14": {
+    "font": "TimesNewRoman",
+    "size": 9.0
+  },
+  "class_f15": {
+    "font": "TimesNewRoman,Italic",
+    "size": 10.0
+  },
+  "class_f16": {
+    "font": "TimesNewRoman,Italic",
+    "size": 9.0
+  },
+  "class_f17": {
+    "font": "TimesNewRoman,Italic",
+    "size": 16.0
+  },
+  "class_f18": {
+    "font": "TimesNewRoman,Italic",
+    "size": 13.0
+  },
+  "class_f19": {
+    "font": "TimesNewRoman,Bold",
+    "size": 12.0
+  }
+}
