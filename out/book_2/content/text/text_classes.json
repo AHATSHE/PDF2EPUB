@@ -1,117 +1,117 @@
 {
-  "class_f1": {
+  "class_1": {
     "font": "Palatino-Roman",
     "size": 16.0
   },
-  "class_f2": {
+  "class_2": {
     "font": "Palatino-Roman",
     "size": 10.4
   },
-  "class_f3": {
+  "class_3": {
     "font": "Palatino-Roman",
     "size": 30.0
   },
-  "class_f4": {
+  "class_4": {
     "font": "Palatino-Roman",
     "size": 15.0
   },
-  "class_f5": {
+  "class_5": {
     "font": "Palatino-Roman",
     "size": 9.0
   },
-  "class_f6": {
+  "class_6": {
     "font": "Palatino-Bold",
     "size": 9.0
   },
-  "class_f7": {
+  "class_7": {
     "font": "GoudyStd",
     "size": 9.0
   },
-  "class_f8": {
+  "class_8": {
     "font": "Palatino-Roman",
     "size": 9.600000000000001
   },
-  "class_f9": {
+  "class_9": {
     "font": "Palatino-Roman",
     "size": 18.0
   },
-  "class_f10": {
+  "class_10": {
     "font": "Palatino-Roman",
     "size": 10.0
   },
-  "class_f11": {
+  "class_11": {
     "font": "Palatino-Roman",
     "size": 11.600000000000001
   },
-  "class_f12": {
+  "class_12": {
     "font": "Palatino-Italic",
     "size": 10.4
   },
-  "class_f13": {
+  "class_13": {
     "font": "GoudyStd",
     "size": 10.0
   },
-  "class_f14": {
+  "class_14": {
     "font": "TimesNewRomanPSMT",
     "size": 9.0
   },
-  "class_f15": {
+  "class_15": {
     "font": "Palatino-Roman",
     "size": 12.0
   },
-  "class_f16": {
+  "class_16": {
     "font": "Palatino-Italic",
     "size": 9.600000000000001
   },
-  "class_f17": {
+  "class_17": {
     "font": "Palatino-Roman",
     "size": 5.6000000000000005
   },
-  "class_f18": {
+  "class_18": {
     "font": "Palatino-Roman",
     "size": 6.2
   },
-  "class_f19": {
+  "class_19": {
     "font": "Palatino-Italic",
     "size": 11.600000000000001
   },
-  "class_f20": {
+  "class_20": {
     "font": "Symbol",
     "size": 10.4
   },
-  "class_f21": {
+  "class_21": {
     "font": "Palatino-Roman",
     "size": 6.0
   },
-  "class_f22": {
+  "class_22": {
     "font": "GoudyStd",
     "size": 10.4
   },
-  "class_f23": {
+  "class_23": {
     "font": "Palatino-Roman",
     "size": 8.4
   },
-  "class_f24": {
+  "class_24": {
     "font": "Palatino-Italic",
     "size": 8.4
   },
-  "class_f25": {
+  "class_25": {
     "font": "Palatino-Bold",
     "size": 9.600000000000001
   },
-  "class_f26": {
+  "class_26": {
     "font": "Palatino-Roman-SC700",
     "size": 11.0
   },
-  "class_f27": {
+  "class_27": {
     "font": "Palatino-Roman-SC700",
     "size": 7.6000000000000005
   },
-  "class_f28": {
+  "class_28": {
     "font": "Palatino-Roman",
     "size": 9.4
   },
-  "class_f29": {
+  "class_29": {
     "font": "Palatino-Italic",
     "size": 9.4
   }

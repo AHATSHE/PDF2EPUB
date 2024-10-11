@@ -1,0 +1,104 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+ENV.bak/
+
+# Python-specific logs
+*.log
+*.sqlite3
+*.db
+*.pyo
+*.pyd
+
+# Unit test / coverage reports
+.coverage
+.cache/
+coverage.xml
+nosetests.xml
+coverage/
+htmlcov/
+
+# pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distributions / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# MyPy type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint, Pyright, and other linting
+.pylint.d/
+.pyright/
+
+# Documentation
+docs/_build/
+*.html
+
+# Sphinx documentation
+docs/_build/
+
+# Cython
+*.c
+*.so
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Ignore data from coverage tools
+.tox/
+.nox/
+*.tox/
+*.nox/

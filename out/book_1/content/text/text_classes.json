@@ -1,161 +1,161 @@
 {
-  "class_f1": {
+  "class_1": {
     "font": "AGaramondPro-Regular",
     "size": 13.0
   },
-  "class_f2": {
+  "class_2": {
     "font": "AGaramondPro-Regular",
     "size": 38.0
   },
-  "class_f3": {
+  "class_3": {
     "font": "AGaramondPro-Italic",
     "size": 22.0
   },
-  "class_f4": {
+  "class_4": {
     "font": "AGaramondPro-Regular",
     "size": 16.0
   },
-  "class_f5": {
+  "class_5": {
     "font": "AGaramondPro-Regular",
     "size": 12.0
   },
-  "class_f6": {
+  "class_6": {
     "font": "AGaramondPro-Italic",
     "size": 11.0
   },
-  "class_f7": {
+  "class_7": {
     "font": "AGaramondPro-Regular",
     "size": 8.0
   },
-  "class_f8": {
+  "class_8": {
     "font": "AGaramondPro-Italic",
     "size": 8.0
   },
-  "class_f9": {
+  "class_9": {
     "font": "AGaramondPro-Regular",
     "size": 20.0
   },
-  "class_f10": {
+  "class_10": {
     "font": "AGaramondPro-Regular",
     "size": 11.0
   },
-  "class_f11": {
+  "class_11": {
     "font": "AGaramondPro-Regular",
     "size": 9.600000000000001
   },
-  "class_f12": {
+  "class_12": {
     "font": "AGaramondPro-Regular",
     "size": 9.0
   },
-  "class_f13": {
+  "class_13": {
     "font": "AGaramondPro-Regular",
     "size": 7.2
   },
-  "class_f14": {
+  "class_14": {
     "font": "AGaramondPro-Regular",
     "size": 10.0
   },
-  "class_f15": {
+  "class_15": {
     "font": "AGaramondPro-Italic",
     "size": 10.4
   },
-  "class_f16": {
+  "class_16": {
     "font": "AGaramondPro-Semibold",
     "size": 24.0
   },
-  "class_f17": {
+  "class_17": {
     "font": "AGaramondPro-Semibold",
     "size": 11.0
   },
-  "class_f18": {
+  "class_18": {
     "font": "AGaramondPro-Italic",
     "size": 12.0
   },
-  "class_f19": {
+  "class_19": {
     "font": "AGaramond-RegUnderDot",
     "size": 11.0
   },
-  "class_f20": {
+  "class_20": {
     "font": "AGaramond-ItalAccentTwo",
     "size": 11.0
   },
-  "class_f21": {
+  "class_21": {
     "font": "AGaramond-RegAccentTwo",
     "size": 11.0
   },
-  "class_f22": {
+  "class_22": {
     "font": "AGaramondPro-Regular",
     "size": 14.0
   },
-  "class_f23": {
+  "class_23": {
     "font": "SymbolStd",
     "size": 11.0
   },
-  "class_f24": {
+  "class_24": {
     "font": "AGaramondPro-Regular",
     "size": 10.4
   },
-  "class_f25": {
+  "class_25": {
     "font": "AGaramondPro-SemiboldItalic",
     "size": 11.0
   },
-  "class_f26": {
+  "class_26": {
     "font": "AGaramond-ItalUnderDot",
     "size": 11.0
   },
-  "class_f27": {
+  "class_27": {
     "font": "AGaramondPro-Italic",
     "size": 9.0
   },
-  "class_f28": {
+  "class_28": {
     "font": "AGaramond-ItalAccentTwo",
     "size": 9.0
   },
-  "class_f29": {
+  "class_29": {
     "font": "AGaramond-RegAccentTwo",
     "size": 9.0
   },
-  "class_f30": {
+  "class_30": {
     "font": "SymbolStd",
     "size": 9.0
   },
-  "class_f31": {
+  "class_31": {
     "font": "AGaramondPro-Regular",
     "size": 6.4
   },
-  "class_f32": {
+  "class_32": {
     "font": "AGaramond-RegUnderDot",
     "size": 9.0
   },
-  "class_f33": {
+  "class_33": {
     "font": "AGaramond-ItalUnderDot",
     "size": 9.0
   },
-  "class_f34": {
+  "class_34": {
     "font": "AGaramondPro-Regular",
     "size": 7.6000000000000005
   },
-  "class_f35": {
+  "class_35": {
     "font": "AGaramondPro-Italic",
     "size": 7.6000000000000005
   },
-  "class_f36": {
+  "class_36": {
     "font": "AGaramond-ItalAccentTwo",
     "size": 7.6000000000000005
   },
-  "class_f37": {
+  "class_37": {
     "font": "Times-PhoneticAlternate",
     "size": 7.6000000000000005
   },
-  "class_f38": {
+  "class_38": {
     "font": "AGaramond-RegAccentTwo",
     "size": 7.6000000000000005
   },
-  "class_f39": {
+  "class_39": {
     "font": "AGaramond-RegUnderDot",
     "size": 7.6000000000000005
   },
-  "class_f40": {
+  "class_40": {
     "font": "AGaramond-ItalUnderDot",
     "size": 7.6000000000000005
   }

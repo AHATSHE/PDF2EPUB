@@ -29,7 +29,7 @@ def annotate_pdf_elements(pdf_path, output_path, element_type='blocks'):
                 annot.set_colors({"fill": color})
                 annot.set_opacity(0.5)
                 # Set the message including block number and x0, y0
-                message = f"Block {block['number']}: x0={x0}, y0={y0}"
+                message = f"Block {block['number']} \n Position: x0={x0}, y0={y0} \n Type {block['type']}"
                 annot.set_info(content=message)
                 annot.update()
         elif element_type == 'lines':

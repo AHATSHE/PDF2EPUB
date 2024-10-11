@@ -1,21 +1,20 @@
-import logging
-import logging.config
 import os
+import logging
 
-if not os.path.exists('logs'):
-    os.makedirs('logs')
-
-LOG_FORMAT = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-LOG_FILE = 'logs/project.log'
-
-def setup_logging():
+def setup_logging(log_file='logs/main.log', level=logging.DEBUG):
+    # Ensure the logs directory exists
+    logs_dir = os.path.dirname(log_file)
+    if not os.path.exists(logs_dir):
+        os.makedirs(logs_dir)
+    
     logging.basicConfig(
-        level=logging.DEBUG, 
-        format=LOG_FORMAT,
+        level=level,
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
         handlers=[
-            logging.FileHandler(LOG_FILE),
-            logging.StreamHandler()  
+            logging.FileHandler(log_file),
+            logging.StreamHandler()
         ]
     )
 
-    logging.getLogger('external_library').setLevel(logging.WARNING)
+    # Set logging level for external libraries if necessary
+    logging.getLogger('fitz').setLevel(logging.WARNING)
